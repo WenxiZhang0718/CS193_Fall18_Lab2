@@ -9,6 +9,7 @@
 # -----------------
 # Task 2 Answer
 # -----------------
+rm ./"purdue classes"/math/pol341
 
 # -----------------
 # Task 3 Answer
