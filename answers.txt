@@ -9,7 +9,7 @@
 # -----------------
 # Task 2 Answer
 # -----------------
-
+rm cs193lab2/"purdue classes"/math
 # -----------------
 # Task 3 Answer
 # -----------------
